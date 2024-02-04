@@ -6,5 +6,5 @@
 #### Learned what blockchain is, it is pinky swear, promises to keep data or any other thing bound to it as it is expected. done till 30.41mins
 
 ### 4th Feb
-#### created metamask wallet and add sepolia test net to it added test coins through sepolia faucet
+#### created metamask wallet and add sepolia test net to it added test coins through sepolia faucet - 1:05:31
 #### https://sepoliafaucet.com/
