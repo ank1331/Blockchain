@@ -19,3 +19,18 @@
     Humari public key se jo humara signature hai voh pata kar sakte hai  ki humara hai , to koi aur bole nahi sakta ki yeh transction uska hai
     address kaise derive hota hai: apni public key ko lo and then hshing mechnism mai dalo and last 25 letters. hashin mechnism can change from BC to BC 
 #### completed till 1:30:23🕧
+### 6th Feb
+#### things read today:
+1. Eth and BTC are both Proof of work that follow nakamoto consensus
+2. Eth 2 is proof of stake that is sharded BC
+3. 51% redu as size inc
+4. consensus is agreement among BCs
+5. Sharding and rollups soln for scalabel
+6. Layer is BTC or ETH
+7. more transx more gas price
+   Sharding scalability ke liye hota hai, aur bhi block chain choti so that you can contribute and gas proce increase na ho
+   proof of stake: arthat aap bole te ho yeh lo paise and mai ek validator hoon, kisi ko randomly choose karte hai to mine the block and validator boleta hai is it correct
+   proof of work: sab log jaldi jaldi nonce dhoodte hai to get the correct block. jab yeh dhoond liya to sab apni block chain update karte hai with the new bloc
+   environment issue in POW so eth 2.0 on POS
+   we learned about GAS, ki when a transaction is made GAS ki base price hoti hai which when multiplied by amount of gas gives transaction fee. this goes to miner. some of the eth is also burned every time a new block is mined. GAS price can vary depending upon the traffic
+#### completed till 2:00:51 🕙
