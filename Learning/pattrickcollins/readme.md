@@ -34,3 +34,27 @@
    environment issue in POW so eth 2.0 on POS
    we learned about GAS, ki when a transaction is made GAS ki base price hoti hai which when multiplied by amount of gas gives transaction fee. this goes to miner. some of the eth is also burned every time a new block is mined. GAS price can vary depending upon the traffic
 #### completed till 2:00:51 🕙
+
+### 7th Feb
+4 types of visiblity hoti hai:
+1. Public --- jaise hi hum kisi ko public karte hai it becomes a function and then we can get the value
+2. Private -- only uss contract ke andar uski value change ho sakti hai 
+3. external -- contract ke bahar ke log bhi change kar sakte hai value 
+4. internal -- only contract ke internal hi change kar sakte hai value -- default
+
+Function mai jitna jayada kaam hoga that is utna jayda expensive - matlab usme utni jayada GAS lagegi
+Scope of function:
+{} mai jo define kiya hai only usse he we can use. Jaise favouritenumber can be used in the entire contract
+
+![image](https://github.com/ank1331/Blockchain/assets/96980640/ff71c7a3-294f-45a6-907b-f33659028c72)
+
+
+but agar mai ek aut variable testval declare karu in side anohter functin, so we should not be able to access that. Yeh compile hone mai error dega
+
+![image](https://github.com/ank1331/Blockchain/assets/96980640/13034c99-c60b-46a6-b3f4-d883d0941729)
+
+2 type of functions dont cause any gas 
+1. view
+2. pure
+   kyu ki isme hum BC ko modify nahi kar rahe. Calling a view funciton is free magar agar humne usse ek aise function mai se call kiya that costs gas to usme charges lagege. Execution cost increase ho jati hai
+#### completed till 2:35:29🕥
