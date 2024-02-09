@@ -67,5 +67,4 @@ learned:
 3. then mappng mapping(uint256=>string) nameof mapping
 4. Different location to save string, array and struct and mapping type
 5. location to save calldata, memory, storage and 3 more
-   
-   
+#### completed till 3:03:08🕥
