@@ -68,3 +68,12 @@ learned:
 4. Different location to save string, array and struct and mapping type
 5. location to save calldata, memory, storage and 3 more
 #### completed till 3:03:08🕥
+
+### 9th Feb
+learned:
+1. Importing one contract in another
+2. and to talk to the imported contract you need 2 things
+       a. Address ki kahan deployed hai
+       b. ABI - Application binary Interface
+3. after importing reading the functions of the imported contract
+#### completed till 3:25:23🕛
