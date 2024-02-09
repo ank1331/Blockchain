@@ -77,3 +77,5 @@ learned:
        b. ABI - Application binary Interface
 3. after importing reading the functions of the imported contract
 #### completed till 3:25:23🕛
+Remix ka link :
+https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.8+commit.dddeac2f.js
