@@ -59,3 +59,13 @@ but agar mai ek aut variable testval declare karu in side anohter functin, so we
 2. pure
    kyu ki isme hum BC ko modify nahi kar rahe. Calling a view funciton is free magar agar humne usse ek aise function mai se call kiya that costs gas to usme charges lagege. Execution cost increase ho jati hai
 #### completed till 2:35:29🕥
+
+### 8th Feb
+learned:
+1. creating array People[] public person , person is array ka name and People is array ka structure
+2. struct type dekha
+3. then mappng mapping(uint256=>string) nameof mapping
+4. Different location to save string, array and struct and mapping type
+5. location to save calldata, memory, storage and 3 more
+   
+   
