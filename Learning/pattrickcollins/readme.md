@@ -79,3 +79,9 @@ learned:
 #### completed till 3:25:23🕛
 Remix ka link :
 https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.8+commit.dddeac2f.js
+
+### 10th Feb
+Learned:
+1. How inheritence works that is we can access a contract and modify that in current contract.
+
+#### completed till 3:34:13🕥
