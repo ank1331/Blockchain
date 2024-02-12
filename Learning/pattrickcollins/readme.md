@@ -85,3 +85,13 @@ Learned:
 1. How inheritence works that is we can access a contract and modify that in current contract.
 
 #### completed till 3:34:13🕥
+
+### 12th Feb:
+learned:
+1. creating fund me contract.
+2. learned that msg.sender and msg.value are global variables and used to read the value of sender and amount sent
+3. learned about chainlinks and oracle and used it to readed eth/usd rate as we cannot have a common server and it has to be through oracles
+4. learned aggregator function is used, we use import statement to import the contract
+5. to read a contract we need 2 values ABI and address
+6. address comes from ontract in chainlink
+7. ABI is dont though import as we need only functions only for ABI
